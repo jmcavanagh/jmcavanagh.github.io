@@ -64,15 +64,15 @@ I've found that a lot of expert intuition takes the form of knowing the relative
 https://en.wikipedia.org/wiki/FLOPS#Hardware_costs
 </details>
 
-(I learned about this method from Drake Thomas, who does this and has an intuitive understanding the sizes of things that I have not seen matched)
+(I learned about this method from Drake Thomas)
 
 #### Proofs and derivations.
 You can also use anki to memorize proofs, derivations of physical principles, or chain-of-thought reasoning by outlining the proof and using fill-in-the-blank (cloze) deletions on multiple steps. This means that you'll get quizzed on completing or justifying every step of the proof, given the rest of the proof as context. This can be tedious to make, and require a complete understanding of the proof, yet are *extraordinarily powerful* when done well. I can reproduce, entirely from my head, a proof for why the squareroot of 2 is irrational or the reason why minimizing the free energy of a system in the canonical ensemble is equivalent to maximizing the universe's entropy (and also the assumptions that go into these)
 
-(I learned about this from Paul Raymond-Robichaud, a master of this method who's talked about it on youtube. Paul has memorized tons of proofs of things he finds interesting and it's left him with a great ability to prove things rigorously, and explain his proofs so they make sense to a simple chemist like me)
+(I learned about this from Paul Raymond-Robichaud)
 
 #### Reasons for why things are the way they are
-Another great thing to do is to memorize the *reasons* for why things are the way they are, which works great for algorithms and biology (anything which is, in some sense, designed to serve a certain purpose).
+Another great thing to do is to memorize the *reasons* for why things are the way they are, which works great for algorithms and biology (anything which is, in some sense, designed to serve a certain purpose). You can also use these sorts of cards to tether formulas to intuitions.
 
 #### Explanations for how things happen
 Another type of card that I like are cards that ask how something happens. A common format I like is to show a picture fo a process and then ask something like "how does this happen". These can get out of hand easily (as in, it's easy to make cards that ask too much and take too much effort. These are called "leeches" and you want to destroy them every time you find them; spaced repetition is supposed to be nearly effortless). Typically these cards don't involve explaining more than two "steps" of a process.
@@ -82,3 +82,16 @@ Another type of card that I like are cards that ask how something happens. A com
 # How I decide what to put in anki
 
 # What I have found to fail
+As much as a miracle cure that Anki is, I haven't been able to get it to work with everything. It's easier to learn the right practices if there are also examples of wrong practices.
+
+### Structures of molecules
+A month after I started using Anki, I had a thought: "Wouldn't it be awesome if I could just memorize the structures of tons of molecules! I could end up making lots of connections between all of these and see things that others cannot!"
+
+Unfortunately, this didn't work nearly as well as I thought. I did have the success of learning all of the most biologically-relevant amino acids, but then ended up getting extremely mixed up on trying to learn the different nucleotides. I tried cards along the lines of "draw X molecule from scratch" or "which molecule is this picture" and both were quite difficult if it had been more than a month. One I start adding new molecules I'm going to try formulating the cards to ask about the structure of a molecule in terms of another.
+
+### Anything that bores or annoys you
+Anki works best when you review it every day. Reviewing it every day sounds like a daunting task, but I find my reviews fun. It usually takes less than 10 minutes and I feel like I'm sharpening my skills with every review. If it felt like a chore, I wouldn't have stuck with it. In fact, there were a few occasions where it did feel like a chore, and as soon as I realized that I wasn't looking forward to the reviews, I deleted all of the "problem cards". If it gets in the way of your fun, it gets in the way of your desire to review. If it gets in the way of your desire to review, it gets in the way of your frequent reviews. You must not dread anki, you must not treat it like a chore. If your card causes you to avoid reviewing, gouge it out and throw it away. It is better to give up on one card than to lose the benefits of spaced repetition in general.
+
+###
+
+
