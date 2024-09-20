@@ -12,7 +12,7 @@ The first and most obvious thing that I thought of memorizing with Anki are defi
 
 <details> 
 <summary> example (physics) </summary>
-![ex](/tree/master/assets/firstorderphasedefinition.png)
+![ex](assets/firstorderphasedefinition.png)
 A first order phase transition is one which has {{c1::a discontinuity in the first derivative of Free Energy}}
 </details>
 
