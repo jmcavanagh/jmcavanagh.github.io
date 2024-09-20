@@ -30,7 +30,7 @@ I've found that a lot of expert intuition takes the form of knowing the relative
 <summary> 
   example (normal-world) 
 </summary>
-  A blue whale can reach lengths of {{c2::30 meters}} and weigh {{c1::200 tons}}.
+  `A blue whale can reach lengths of {{c2::30 meters}} and weigh {{c1::200 tons}}.`
 </details>
 
 <details> 
