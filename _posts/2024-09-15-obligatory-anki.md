@@ -49,7 +49,7 @@ I've found that a lot of expert intuition takes the form of knowing the relative
 
 <details> 
 <summary> 
-  example (normal-world) 
+  example (physics) 
 </summary>
   The peak blackbody emission wavelength of humans is about {{c1::10 microns (1000 cm^-1)}}
 </details>
@@ -77,9 +77,14 @@ Another great thing to do is to memorize the *reasons* for why things are the wa
 #### Explanations for how things happen
 Another type of card that I like are cards that ask how something happens. A common format I like is to show a picture fo a process and then ask something like "how does this happen". These can get out of hand easily (as in, it's easy to make cards that ask too much and take too much effort. These are called "leeches" and you want to destroy them every time you find them; spaced repetition is supposed to be nearly effortless). Typically these cards don't involve explaining more than two "steps" of a process.
 
-#### 
+# How I decide what to put in anki vs other notes
+My anki deck is a part of me. A piece of my soul resides within it. My memories may fade, time may shape me into a new person, but probably 90% of the cards I have now will remain unchanged. If there is some permanent essence of who I am, it has a .colpkg file extension.
 
-# How I decide what to put in anki
+Because of the permanency of my deck, I only put in things that I care about, things that I *want to become part of me*. I try to make sure that the information comes from a relatively credible source, such as a textbook so I don't pollute my memory-horcrux with falsehoods. Typically, if I read a textbook, I take (e)paper notes, then I convert the parts of the notes I think would make good cards into cards. I do this for lots of science and math stuff.  I also try to do this when I read a paper.
+
+Separately, I do use note-taking software (Obsidian) but there's very little overlap between what I put in my anki deck. Typically, I put things into my anki deck after I learn them, and I put things in Obsidian so that I don't have to learn them.
+
+I typically use obsidian for taking notes that I can quickly reference. I mostly use it for things like documentation and arbitrary stuff (like what syntax means what in some python library). I don't put these in anki because although they're useful (for a short time) they're kinda arbitrary, and I am not very interested in arbitrary facts since they don't point towards the interesting truths of the world.
 
 # What I have found to fail
 As much as a miracle cure that Anki is, I haven't been able to get it to work with everything. It's easier to learn the right practices if there are also examples of wrong practices.
